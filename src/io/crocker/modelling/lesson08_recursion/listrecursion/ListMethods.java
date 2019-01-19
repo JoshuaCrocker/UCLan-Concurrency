@@ -1,4 +1,4 @@
-package io.crocker.modelling.lesson07_recursion.listrecursion;
+package io.crocker.modelling.lesson08_recursion.listrecursion;
 
 public class ListMethods
 {

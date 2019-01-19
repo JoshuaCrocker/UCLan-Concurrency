@@ -89,7 +89,7 @@ public class Buffer
         {
             nextOut = 0;
         }
-        
+
         mutex.release();
         numFree.release();
 

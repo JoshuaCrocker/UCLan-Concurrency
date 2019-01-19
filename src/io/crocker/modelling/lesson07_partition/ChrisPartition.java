@@ -1,6 +1,6 @@
-package io.crocker.modelling.lesson06_partition;
+package io.crocker.modelling.lesson07_partition;
 
-public class ChrisPartition implements io.crocker.modelling.lesson06_partition.IPartition
+public class ChrisPartition implements io.crocker.modelling.lesson07_partition.IPartition
 {
     @Override
     public int partition(int[] theArray)

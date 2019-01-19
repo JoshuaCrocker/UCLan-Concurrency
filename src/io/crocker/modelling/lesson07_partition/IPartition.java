@@ -1,4 +1,4 @@
-package io.crocker.modelling.lesson06_partition;
+package io.crocker.modelling.lesson07_partition;
 
 public interface IPartition
 {

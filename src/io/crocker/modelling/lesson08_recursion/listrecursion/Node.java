@@ -1,4 +1,4 @@
-package io.crocker.modelling.lesson07_recursion.listrecursion;
+package io.crocker.modelling.lesson08_recursion.listrecursion;
 
 public class Node
 {
@@ -21,12 +21,12 @@ public class Node
         this.value = value;
     }
 
-    public io.crocker.modelling.lesson07_recursion.listrecursion.Node getNext()
+    public io.crocker.modelling.lesson08_recursion.listrecursion.Node getNext()
     {
         return next;
     }
 
-    public void setNext(io.crocker.modelling.lesson07_recursion.listrecursion.Node next)
+    public void setNext(io.crocker.modelling.lesson08_recursion.listrecursion.Node next)
     {
         this.next = next;
     }
