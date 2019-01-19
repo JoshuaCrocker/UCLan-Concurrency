@@ -1,4 +1,4 @@
-package io.crocker.concurrency.lesson02_semaphores;
+package io.crocker.concurrency.lesson03_semaphores;
 
 /**
  * <p>Title: Producer Consumer</p>

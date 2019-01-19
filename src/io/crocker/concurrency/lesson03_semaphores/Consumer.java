@@ -7,7 +7,7 @@
  * and open the template in the editor.
  */
 
-package io.crocker.concurrency.lesson02_semaphores;
+package io.crocker.concurrency.lesson03_semaphores;
 
 /**
  * @author CHRIS
